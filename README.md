@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Signaturepad
 
 You can use the [editor on GitHub](http://localhost/Signaturepad-master/) to maintain and preview the content for your website in Markdown files.
 
